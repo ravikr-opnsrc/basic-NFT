@@ -8,12 +8,11 @@ You need to have Quick Node RPC URL as well as your private key of your wallet.
 
 #Setting up Hardhat and run following command one after another
 
-'''
-npm init --yes
-npm install --save-dev hardhat @nomicfoundation/hardhat-toolbox
-npx hardhat 
-npm install --save-dev @openzeppelin/contracts
-'''
++ npm init --yes
++ npm install --save-dev hardhat @nomicfoundation/hardhat-toolbox
++ npx hardhat 
++ npm install --save-dev @openzeppelin/contracts
+ 
 
 # Try running some of the following tasks:
 
