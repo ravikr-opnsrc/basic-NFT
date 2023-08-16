@@ -1,10 +1,8 @@
-# Sample Hardhat Project
-
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+# A basic NFT Token, ERC-721 
 
 
 #Prerequisites
-Make sure you have MetaMask installed and set up
+Make sure you have MetaMask with Sepolia Ether in your wallet 
 Download and install Node.js on your computer
 
 #Setting up Hardhat and run following command one after another
