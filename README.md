@@ -2,7 +2,7 @@
 
 
 #Prerequisites
-Make sure you have MetaMask with Sepolia Ether in your wallet 
+Make sure you have MetaMask with Sepolia Ether in your wallet,  
 Download and install Node.js on your computer
 
 #Setting up Hardhat and run following command one after another
